@@ -2,7 +2,7 @@ import unittest
 
 from ete3 import Tree
 
-from robinson_foulds import robinson_foulds
+from ete_robinson_foulds import robinson_foulds
 
 
 class TreeCompare(unittest.TestCase):
